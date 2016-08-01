@@ -1,0 +1,6 @@
+[submodule "hello-sso-jwt-auth"]
+	path = hello-sso-jwt-auth
+	url = https://github.com/hellokoding/hello-sso-jwt-auth
+[submodule "hello-sso-jwt-resource"]
+	path = hello-sso-jwt-resource
+	url = https://github.com/hellokoding/hello-sso-jwt-resource
