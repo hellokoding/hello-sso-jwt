@@ -1,4 +1,4 @@
-# Hello Single Sign On (SSO) Example with JSON Web Token (JWT), Spring Boot
+# Single Sign On (SSO) Example with JSON Web Token (JWT), Spring Boot
 
 ## Guide
 https://hellokoding.com/hello-single-sign-on-sso-with-json-web-token-jwt-spring-boot/
